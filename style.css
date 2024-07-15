@@ -56,3 +56,13 @@ p {
 }
 
 /* End reset */
+
+:root {
+  --clr-neutral-100: hsl(0 0 100);
+  --clr-neutral-200: hsl(212 45 89);
+  --clr-primary-400: hsl(220 15 55);
+  --clr-primary-800: hsl(218 44 22);
+
+  --fs-400: 15px;
+  --ff-primary: Outfit;
+}
